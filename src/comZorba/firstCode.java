@@ -7,5 +7,6 @@ public class firstCode {
         int num1 = 45;
         int num2 = 65;
         System.out.println(num1+ num2);
+        System.out.println("Java Git on intelij Idea ");
     }
 }
